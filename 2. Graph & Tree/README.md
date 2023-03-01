@@ -32,4 +32,4 @@ Edge has only one-way direction
 
 #### Binary Search Tree (BST)
 
-### Heap (Tree)
+#### 🌟 Heap (Tree)
