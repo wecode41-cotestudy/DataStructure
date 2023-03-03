@@ -25,6 +25,7 @@ Graph without cycle(loop)
 Edge has only one-way direction
 
 ### Binary Tree (B-Tree)
+https://yaboong.github.io/data-structures/2018/02/10/1_binary-tree-1/
 - Full binary tree
 - Complete binary tree
 - Perfect binary tree
